@@ -4,6 +4,9 @@
 
 </div>
 
+[demo.webm](https://github.com/jonas-holanda/desafio-fullstack/assets/138180385/4389d524-b764-4ca9-b0b8-88a1147284d8)
+
+
 **Neste desafio foi solicitado a criação de um CRUD de Usuários para o back-end. Juntamente com um front-end para fazer a integração e utilização dessa API.**
 
 **Optei por fazer meu back-end com o PHP utilizando a framework Laravel. E no meu front-end utilizei o React com o Vite juntamente com o bootstrap.**
