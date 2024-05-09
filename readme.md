@@ -45,9 +45,9 @@
 
 # Acesso aos Projetos
 
-**Back-end: [https://github.com/jonas-holanda/desafio-fullstack/backend-laravel](https://github.com/jonas-holanda/desafio-fullstack/backend-laravel)**
+**Back-end: [https://github.com/jonas-holanda/desafio-fullstack/tree/main/backend-laravel](https://github.com/jonas-holanda/desafio-fullstack/tree/main/backend-laravel)**
 
-**Front-end: [https://github.com/jonas-holanda/desafio-fullstack/frontend-react](https://github.com/jonas-holanda/desafio-fullstack/frontend-react)**
+**Front-end: [https://github.com/jonas-holanda/desafio-fullstack/tree/main/frontend-react](https://github.com/jonas-holanda/desafio-fullstack/tree/main/frontend-react)**
 
 <p align="center">
     <strong>Copyright © <a href="https://github.com/jonas-holanda" target="_blank">Jonas Holanda</a>. All Rights Reserved.</strong>
