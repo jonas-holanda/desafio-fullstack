@@ -47,6 +47,7 @@
 - **E para as páginas de 'Editar' e 'Adicionar', inseri a busca pelo CEP, utilizando a API ViaCep para assim agilizar na hora do preenchimento dos dados. Ainda nessas páginas coloquei para que ao realizar uma ação de submissão por exemplo, o botão é substituído por um gif de carregando, assim evitando da pessoa realizar a mesma solicitação novamente.**
 
 # Acesso aos Projetos
+**Observação: Dentro das pastas de front-end e back-end, existem os arquivos readme.md informando como rodar os projetos.**
 
 **Back-end: [https://github.com/jonas-holanda/desafio-fullstack/tree/main/backend-laravel](https://github.com/jonas-holanda/desafio-fullstack/tree/main/backend-laravel)**
 
