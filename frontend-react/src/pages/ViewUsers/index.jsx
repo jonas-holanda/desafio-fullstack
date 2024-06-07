@@ -32,7 +32,7 @@ export default function ViewUsers() {
             imageWidth: 200,
             imageHeight: 200,
             imageAlt: `imagem de ${nome}`,
-            title: `Você deseja excluir o usuário: ${nome}`,
+            title: `Você deseja excluir o usuário: ${nome}?`,
             showDenyButton: true,
             confirmButtonText: "Excluir",
             confirmButtonColor: "#3085d6",
