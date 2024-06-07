@@ -15,7 +15,8 @@
 ## Como rodar o projeto
 
 1. **Instale as dependências com o comando `npm install`.**
-2. **Utilize o comando `npm run dev` no terminal, para rodar o servidor local.**
+2. **Crie seu arquivo `.env` a partir do `.env-example` e coloque a url da api do back-end.**
+3. **Utilize o comando `npm run dev` no terminal, para rodar o servidor local.**
 
 <p align="center">
     <strong>Copyright © <a href="https://github.com/jonas-holanda" target="_blank">Jonas Holanda</a>. All Rights Reserved.</strong>
